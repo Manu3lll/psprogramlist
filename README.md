@@ -10,7 +10,7 @@ This can be used to set up your PC again without losing programs
 
 # Requirements
 - Powershell and Excel installed
-- Enable Executing Powershell Code (run this command inside a Powershell administrator window: <b>set-executionpolicy remotesigned</b>
+- Enable Executing Powershell Code (run this command inside a Powershell administrator window: <i>"set-executionpolicy remotesigned"</i>
 - Download "ExportProgrammlist.ps1" and run this by righclicking -> run with Powershell: 
 - Follow the instructions
 
