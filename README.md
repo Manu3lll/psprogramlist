@@ -6,7 +6,7 @@
 This can be used to set up your PC again without losing programs
 
 # Example 
-![image](https://user-images.githubusercontent.com/76947467/122811690-165b1d80-d2d1-11eb-87e3-9084693eba0e.png)
+![image](https://user-images.githubusercontent.com/76947467/122812254-c03aaa00-d2d1-11eb-8a35-3f30782abb1d.png)
 
 # Requirements
 - Powershell and Excel installed
