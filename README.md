@@ -1,4 +1,4 @@
-# Script which exports a program list in Excel format which includes:
+# Script which exports a program list from you current PC in Excel format which includes:
 - Program name
 - Program version
 - Modification Date
